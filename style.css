@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ 
+}
+
+.logo{
+    padding: 48px 167px;
+
+}
+
+.nav{
+    display: flex;
+    gap: 32px;
+    padding: 48px 333px  ;
+    list-style-type: none;
+    
+    
+
+}
+
+
+.but{
+    padding: 9px 24px;
+    border-radius: 20px;
+    background: #2BD0D0;
+    color: #fff;
+    border: none;
+
+    
+    
+
+   
+}
+
+
+
+.bbb{
+    text-decoration:none ;
+    color: #9E9AA8;
+}
+
+.nnn{
+    text-decoration:none ;
+    color: #9E9AA8;
+}
+.mmm{
+    text-decoration:none ;
+    color: #9E9AA8;
+
+}
+
+
+section{
+    padding: 48px 167px;
+    
+    justify-content: space-between;
+    
+}
+
+
+.kkk p{
+   font-size: 18px;
+   font-weight: 500;
+   color: #9E9AA8;
+   width: 540px;
+height: 72px;
+top: 185px;
+gap: 0px;
+opacity: 0px;
+
+  
+
+
+}
+
+.kkk h1{
+    color: #34313D;
+    font-weight: 700;
+    font-size: 50px;
+    justify-content: space-between;
+
+
+}
+
+
+.hero{
+    width: 733px;
+    height: 482px;
+    background-image: url("./hero.png");
+    background-size: cover;
+
+    
+}
+
+
+.bbut{
+    padding: 14px 40px;
+    border-radius: 20px;
+    border: none;
+    background: #2BD0D0;
+    color:#fff
+
+    
+}
